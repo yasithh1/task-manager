@@ -1,3 +1,4 @@
+![Uploading Screenshot 2026-09-29 194337.png…]()
 # Task Manager (MERN)
 
 A full-stack task manager where you can add, edit, complete, and delete tasks.
