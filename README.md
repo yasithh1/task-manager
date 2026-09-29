@@ -1,5 +1,4 @@
 # Task Manager (MERN)
-
 A full-stack task manager where you can add, edit, complete, and delete tasks.
 
 ## Tech stack
