@@ -34,4 +34,3 @@ React (Vite), Node.js, Express, MongoDB (Mongoose)
 - Keeping secrets out of Git with .env
 
 <img width="1917" height="927" alt="Task Manager" src="https://github.com/user-attachments/assets/6a55cd3d-5384-4379-844d-2c41b83e19ce" />
-
