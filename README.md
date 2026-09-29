@@ -32,4 +32,5 @@ React (Vite), Node.js, Express, MongoDB (Mongoose)
 - Connecting a frontend to a backend with fetch
 - Keeping secrets out of Git with .env
 
-<img width="1917" height="927" alt="Task Manager" src="https://github.com/user-attachments/assets/6a55cd3d-5384-4379-844d-2c41b83e19ce" />
+<img width="1917" height="926" alt="Task Manager" src="https://github.com/user-attachments/assets/6252d032-430b-4d66-a1cb-2c3245e2e85c" />
+
